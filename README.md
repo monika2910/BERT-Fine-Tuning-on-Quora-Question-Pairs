@@ -6,3 +6,5 @@ In this case study, I identify which questions asked on Quora are duplicates of 
 This could be useful to instantly provide answers to questions that have already been answered. I used streamlit app for predicting whether a pair of questions are duplicates or not.
 
 I run BERT pre-trained model on the Quora Question Pair Similarity detection dataset to experience the bi-directionality of BERT. This colab notebook is a step-by-step guide to the implementation of the same using pytorch-transformers by hugging face. i fine tuned BERT model on 100k question pairs and got Accuracy on Train data 88.9
+
+
